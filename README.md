@@ -1,6 +1,6 @@
 ## PyTorch implementation of 
     Delving Deep into Spatial Pooling for Squeeze-and-Excitation Networks
-    [method](https://github.com/Megvii-Nanjing/RG-SP_SE-Net/blob/master/1.png)
+    ![method](https://github.com/Megvii-Nanjing/RG-SP_SE-Net/blob/master/1.png)
     
 ### Requirements
 
