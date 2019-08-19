@@ -1,6 +1,7 @@
 ## PyTorch implementation of 
     Delving Deep into Spatial Pooling for Squeeze-and-Excitation Networks
-    ![method](https://github.com/Megvii-Nanjing/RG-SP_SE-Net/blob/master/1.png)
+
+![method](https://github.com/Megvii-Nanjing/RG-SP_SE-Net/blob/master/1.png)
     
 ### Requirements
 
@@ -22,3 +23,5 @@
         xxx.jpg 999
     
     3.python3 imagenet_train.py --test_data_path your_path --train_data_path  your_path -a RGSE50 --epochs 100 --schedule 30 -b 256 --lr 0.1
+
+### test curves on ImageNet-1k
